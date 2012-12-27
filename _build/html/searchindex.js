@@ -1,0 +1,1 @@
+Search.setIndex({objects:{},terms:{xml:[0,1],index:0,search:0,document:0,welcom:0,titl:[],solana:0,driver:[0,1],indic:0,method:[0,1],content:0,rpc:[0,1],tabl:0,modul:0,andrea:[0,1],page:0},objtypes:{},titles:["Welcome to Solana&#8217;s documentation!","Driver XML-RPC Andrea methods"],objnames:{},filenames:["index","driver"]})
